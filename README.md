@@ -1,2 +1,2 @@
-# UniKL cClubHub
+# UniKL ClubHub
 UniKL Club Management System
