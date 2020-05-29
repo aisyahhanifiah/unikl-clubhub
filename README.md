@@ -45,9 +45,12 @@ Application system which allows for one-stop management and interaction with clu
 
 #### Log in credentials
 For the purpose of the prototype, you may use the provided credentials to explore the website.
+
 `email: admin@clubhub.com password: secret` for admin
+
 `email: nawadah.ismail@unikl.edu.my password: secret` for committee
-`email: norsheraniza@unikl.edu.my password: secret` for committee.
+
+`email: norsheraniza@unikl.edu.my password: secret` for normal user
 
 #### Source code
 Source code can be found at root folder on our repository.
