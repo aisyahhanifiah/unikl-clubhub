@@ -9,7 +9,7 @@ www.aisyahhanifiah.com
 # UniKL ClubHub Management System
 Application system which allows for one-stop management and interaction with clubs and societies at UniKL MIIT called UniKL ClubHub.
 
-![a](https://github.com/deco3500-2018/Matcha/blob/master/poster-final.jpg)
+![a](https://github.com/aisyahhanifiah/unikl-clubhub/blob/master/screencapture-uniclubhub-me-home-2020-05-29-11_06_46.png)
 
 #### Functional Coverage
 > Anything other than web pages and features mentioned below are not within the functional scope.
@@ -45,7 +45,9 @@ Application system which allows for one-stop management and interaction with clu
 
 #### Log in credentials
 For the purpose of the prototype, you may use the provided credentials to explore the website.
-`email: admin@clubhub.com password: secret` for admin. `email: nawadah.ismail@unikl.edu.my password: secret` for committee. `email: norsheraniza@unikl.edu.my password: secret` for committee.
+`email: admin@clubhub.com password: secret` for admin
+`email: nawadah.ismail@unikl.edu.my password: secret` for committee
+`email: norsheraniza@unikl.edu.my password: secret` for committee.
 
 #### Source code
 Source code can be found at root folder on our repository.
