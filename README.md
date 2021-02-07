@@ -7,7 +7,7 @@ Aisyah Hanifiah
 www.aisyahhanifiah.com
 
 # UniKL ClubHub Management System
-https://uniclubhub.me/
+http://188.166.221.223/
 
 Application system which allows for one-stop management and interaction with clubs and societies at UniKL MIIT called UniKL ClubHub.
 
